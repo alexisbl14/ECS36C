@@ -1,0 +1,17 @@
+{
+  "1": {
+    "key": -1698085031,
+    "operation": "Insert"
+  },
+  "2": {
+    "key": 1734405243,
+    "operation": "Insert"
+  },
+  "3": {
+    "key": -1376508862,
+    "operation": "Insert"
+  },
+  "metadata": {
+    "numOps": 3
+  }
+}
